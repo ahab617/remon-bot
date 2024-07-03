@@ -1,0 +1,22 @@
+{
+  "botToken": "7153262639:AAE10bImJrnwtWDbZYBq1UAxF7ll-IFoWnk",
+  "botUrl": "https://t.me/sol_base_bot",
+  "botname": "sol_base_bot",
+  "mongoURI": "mongodb+srv://TGtrackbot:Telegrambot123!@trackbot.o1fv04v.mongodb.net/TGtrackbot",
+  "port": 8080,
+  "priceDay": 1,
+  "ownerId": 914511864,
+  "ownerAddr": "6Z3LYDEsw27uyENGjZ6WKZmqrDeeXnyYXucyQxGH6kRR",
+  "ownerPrivateKey": "5UCCGnBtkxzRSpPafe6SbPpP13S9fWeF76X1QHiNWUiw3WHKcyGYkfGPJh8j5TVd8UiMX8kWoFgUX2mJtoeBZWhR",
+  "baseAPIKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjRlZWVkODA3LWM3MGEtNGJkOC04Mjk0LTlmZDgwNzJkZDM0YyIsIm9yZ0lkIjoiMzkzMzIzIiwidXNlcklkIjoiNDA0MTU1IiwidHlwZUlkIjoiMWJhMDc2ZjEtMDZhYy00YWExLWEwNjItNTU1MDk0NjAwNDY1IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MTYzOTI3NjEsImV4cCI6NDg3MjE1Mjc2MX0.L9vPUofJJysv-bGxijzLO43zJw5kLAY-2pmOrI45uKQ",
+  "solAPIKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkQXQiOjE3MTY1NDA1MTI1NzcsImVtYWlsIjoibmF6YXIua2hhbmFzMzhAZ21haWwuY29tIiwiYWN0aW9uIjoidG9rZW4tYXBpIiwiaWF0IjoxNzE2NTQwNTEyfQ.AOfsIGBDwUa8hPr7w1YmOVAAhdkzdZjIX-pctKwCEN0",
+  "bitAPIKey": "Bearer ory_at_M57kznH2_ScUh7qTAInBiXspuql4vwe9KZY3PMMfXFM.1y6VpUAVqFtomfrIPjicxfC1XegAAg7zTPqGSYBO_hc",
+  "ownerChannel": "@remontestchannel1",
+  "baseTokenScanUrl": "https://basescan.org/token",
+  "baseTxScanUrl": "https://basescan.org/tx",
+  "baseAddressUrl": "https://basescan.org/address",
+  "solTokenScanUrl": "https://solscan.io/token",
+  "solAddressUrl": "https://solscan.io/account",
+  "solTxScanUrl": "https://solscan.io/tx",
+  "pekeAddress": "2LJt6xyVEcDeEjxF3fpjhaiRhfQCUTpMF5fZC5nGnyDg"
+}
